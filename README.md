@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-# HI, my name is Dyn Crazy
+# Hi, my name is Dyn Crazy
 ### About Me :
 - Saya berasal dari Bali, Indonesia
 - Saya baru belajar tentang pemograman
@@ -25,4 +25,4 @@
 </div>
 
 ### Statistic :
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DynnCrazy&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XDynCrazy&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
